@@ -1,0 +1,22 @@
+{
+  "name": "bangular",
+  "version": "0.2.0",
+  "main": "bangular.js",
+  "ignore": [
+    "bangular-min.js",
+    "docs",
+    "examples",
+    "test",
+    "*.yml",
+    "*.map",
+    ".html",
+    "*.ico"
+  ],
+  "dependencies": {
+    "backbone": ">=1.1.2",
+    "backbone-deep-model": ">=0.10.4",
+    "underscore": ">=1.5.0",
+    "jquery": ">=1.11.0"
+  },
+  "homepage": "https://github.com/ptshih/bangular.git"
+}
